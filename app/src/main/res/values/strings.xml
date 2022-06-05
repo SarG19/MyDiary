@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addTitle">Add Title</string>
+    <string name="addNotes">Add Note</string>
+    <string name="addEntry">ADD NEW ENTRY</string>
+    <string name="done">ADD</string>
+    <string name="addDate">Add Date</string>
+    <string name="john">John</string>
+    <string name="doe">Doe</string>
+    <string name="num">(25)</string>
+</resources>
